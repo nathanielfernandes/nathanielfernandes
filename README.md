@@ -23,7 +23,7 @@
 <br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanielfernandes&show_icons=true&locale=en" alt="nathanielfernandes" /></p> -->
 
-<h3 align="left">Project Gallery:</h3>
+<!-- <h3 align="left">Project Gallery:</h3>
 
 [**Rustacean-Tracing**](https://github.com/nathanielfernandes/Rustacean-Tracing)
 <a href="https://github.com/nathanielfernandes/Rustacean-Tracing">
@@ -38,4 +38,4 @@
 [**HamoodBot**](https://github.com/nathanielfernandes/HamoodBot)
 <a href="https://github.com/nathanielfernandes/HamoodBot">
 <img src="https://cdn.discordapp.com/attachments/829072008733261834/912884343008006174/unknown.png" >
-</a>
+</a> -->
