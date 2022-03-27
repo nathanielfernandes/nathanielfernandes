@@ -5,15 +5,14 @@
 <h3 align="center">thinks in python, codes in anything 🧑🏾‍🚀</h3>
 </p>
 
-- 🔭 I'm currently working on a Meme Generation API.
-
-- 🌱 I'm currently learning **Remix** 🤩.
+- 🔭 I'm currently working on [***mime***](https://github.com/nathanielfernandes/mime)
 
 - 👨🏽‍💻 my portfolio site is available at [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
 
 - 📫 You can reach me at **nathaniel.s.fernandes@gmail.com**
 
 <!-- - 🤝 I’m looking for help with my [discord bot](https://github.com/nathanielfernandes/HamoodBot) -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanielfernandes&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,glsl" alt="nathanielfernandes" />
