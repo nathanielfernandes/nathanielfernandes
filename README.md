@@ -15,7 +15,7 @@
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanielfernandes&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,glsl" alt="nathanielfernandes" />
+<img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/image?threshold=2" alt="nathanielfernandes" />
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanielfernandes&show_icons=true&locale=en" alt="nathanielfernandes" /></p> -->
 
