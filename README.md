@@ -5,7 +5,7 @@
 <h3 align="center">thinks in python, codes in anything 🧑🏾‍🚀</h3>
 </p>
 
-- 🔭 I'm currently working on [***mime***](https://github.com/nathanielfernandes/mime)
+- 🔭 I'm currently working on [***quilt***](https://github.com/nathanielfernandes/quilt)
 
 - 👨🏽‍💻 my portfolio site is available at [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
 
