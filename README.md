@@ -1,11 +1,11 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=nathanielfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="nathanielfernandes" />
 
-<h1 align="center">Hi 👋, I'm Nathaniel Fernandes</h1>
-<h3 align="center">thinks in python, codes in anything 🧑🏾‍🚀</h3>
+## Hi 👋, I'm Nathaniel Fernandes
+<!-- <h3 align="center">thinks in python, codes in anything 🧑🏾‍🚀</h3> -->
 </p>
 
-- 🔭 I'm currently working on [***quilt***](https://github.com/nathanielfernandes/quilt)
+- 🔭 I'm currently working on [***sea***](https://github.com/nathanielfernandes/sea)
 
 - 👨🏽‍💻 my portfolio site is available at [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
 
