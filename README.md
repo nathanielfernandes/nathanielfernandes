@@ -5,11 +5,11 @@
 <!-- <h3 align="center">thinks in python, codes in anything 🧑🏾‍🚀</h3> -->
 </p>
 
-- I'm currently working on [***sea***](https://github.com/nathanielfernandes/sea)
+- I'm currently working on [***open-canvas***](https://open-canvas.ncp.nathanferns.xyz/playground)
 
-- My portfolio site is available at [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
+- Visit my website @ [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
 
-- You can reach me at **nathaniel.s.fernandes@gmail.com**
+<!-- - You can reach me at **nathaniel.s.fernandes@gmail.com**  -->
 
 <!-- - 🤝 I’m looking for help with my [discord bot](https://github.com/nathanielfernandes/HamoodBot) -->
 
@@ -17,7 +17,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/image?threshold=0.2" alt="nathanielfernandes" />
 
-###### < made with quilt
+###### < made with [***quilt***](https://github.com/nathanielfernandes/quilt) and [***open-canvas***](https://open-canvas.ncp.nathanferns.xyz/playground)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanielfernandes&show_icons=true&locale=en" alt="nathanielfernandes" /></p> -->
 
