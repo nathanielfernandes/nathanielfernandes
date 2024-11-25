@@ -15,7 +15,7 @@
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-<img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/image?threshold=2" alt="nathanielfernandes" />
+<img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/image?threshold=0.2" alt="nathanielfernandes" />
 
 ###### < made with quilt
 
