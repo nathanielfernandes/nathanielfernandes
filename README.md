@@ -15,7 +15,7 @@
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-<img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/gif?threshold=0.2" alt="nathanielfernandes" />
+<img align="left" src="https://stars.ncp.nathanferns.xyz/nathanielfernandes/gif?threshold=0.2&cb=1" alt="nathanielfernandes" />
 
 ###### < made with [***quilt***](https://github.com/nathanielfernandes/quilt) and [***open-canvas***](https://open-canvas.ncp.nathanferns.xyz/playground)
 
